@@ -1,4 +1,4 @@
-# Amazon_project
+# Amazon_Sales Analysis Project
 ---
 
 ### **Difficulty Level: Advanced**
