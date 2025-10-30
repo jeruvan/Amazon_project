@@ -1,8 +1,6 @@
 # Amazon_project
 ---
 
-# **Amazon Project**
-
 ### **Difficulty Level: Advanced**
 
 ---
